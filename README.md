@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sub0Zero1990
 - 👀 I’m interested in programming
-- 🌱 I am currently learning C, but I would like to learn as many languages as possible
+- 🌱 I am currently learning Java, but I would like to learn as many languages as possible
 - 💞️ I’m looking to collaborate on some project that involves game developement
 
 <!---
